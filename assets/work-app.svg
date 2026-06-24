@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="应用界面作品示意图">
+  <rect width="800" height="600" fill="#f6f3ee"/>
+  <rect x="130" y="64" width="540" height="472" rx="24" fill="#20252c"/>
+  <rect x="166" y="110" width="468" height="380" rx="10" fill="#fffdf9"/>
+  <circle cx="232" cy="166" r="42" fill="#1f7a63"/>
+  <rect x="296" y="142" width="210" height="18" fill="#20252c"/>
+  <rect x="296" y="178" width="156" height="18" fill="#ded8cf"/>
+  <rect x="210" y="260" width="380" height="52" rx="8" fill="#edf1e8"/>
+  <rect x="210" y="340" width="180" height="96" rx="8" fill="#c9912e"/>
+  <rect x="410" y="340" width="180" height="96" rx="8" fill="#b44c43"/>
+</svg>
